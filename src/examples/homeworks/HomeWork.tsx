@@ -1,4 +1,5 @@
 import * as React from 'react';
+// import fetchProducts from './fetchProducts';
 
 class HomeWork extends React.Component {
     render() {
