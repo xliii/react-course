@@ -8,4 +8,4 @@ Create simple react app
 
 4. It should be possible to remove item from cart
 
-see homework.png
+![Homework](homework.png)
