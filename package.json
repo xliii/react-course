@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "babel": "^6.23.0",
+    "babel-runtime": "^6.26.0",
     "bootstrap": "^3.3.7",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
@@ -24,6 +26,9 @@
     "@types/react": "^16.0.18",
     "@types/react-dom": "^16.0.2",
     "@types/react-router": "^4.0.16",
-    "@types/react-router-dom": "^4.0.8"
+    "@types/react-router-dom": "^4.0.8",
+    "tslint": "^5.8.0",
+    "tslint-react": "^3.2.0",
+    "typescript": "^2.5.3"
   }
 }

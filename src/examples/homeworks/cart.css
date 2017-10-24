@@ -1,0 +1,14 @@
+th, td {
+    border: 1px solid black;
+    padding: 4px;
+}
+
+.remove {
+    border: none;
+    cursor: pointer;
+}
+
+.header {
+    font-weight: bold;
+    margin-right: 20px;
+}
